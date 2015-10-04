@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+
+  },
+  "name": "EAN_Boilerplate",
+  "version": "0.0.1",
+  "description": "A quick boilerplate for applications based around ExpressAngularNode (EAN), leaving the back end up to the developer.",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.12.3",
+    "compression": "^1.5.2",
+    "express": "^4.12.3",
+    "express-handlebars": "^2.0.1",
+    "multer": "^0.1.8"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "default"
+  },
+  "keywords": [
+    "express",
+    "handlebars",
+    "angular",
+    "boilerplate",
+    "template"
+  ],
+  "author": "codenamesrcl",
+  "license": "ISC"
+}

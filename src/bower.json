@@ -1,0 +1,30 @@
+{
+  "name": "Express Base",
+  "version": "0.0.1",
+  "description": "A basic template for Express/Handlebars/Angular",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "angular",
+    "gen"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "angular-animate": "~1.4.6",
+    "angular-sanitize": "~1.4.6",
+    "lodash": "~3.10.1",
+    "moment": "~2.10.6",
+    "moment-timezone": "~0.4.0",
+    "velocity": "~1.2.2"
+  }
+}
