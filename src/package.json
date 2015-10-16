@@ -11,7 +11,10 @@
     "compression": "^1.5.2",
     "express": "^4.12.3",
     "express-handlebars": "^2.0.1",
-    "multer": "^0.1.8"
+    "lodash": "^3.10.1",
+    "mime-types": "^2.1.7",
+    "multer": "^0.1.8",
+    "normalize-path": "^2.0.0"
   },
   "scripts": {
     "start": "node app.js",
